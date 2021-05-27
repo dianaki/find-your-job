@@ -25,6 +25,10 @@ button, input {
   border: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 input:focus {
   outline-style: none
 }
